@@ -1,6 +1,6 @@
 ---
 title: "Journey into DATA, AI, ML, DL and M&E."
-Categoties: [Tech, AI]
+Categories: [Tech, AI]
 tags: [DATA SCIENCE, ARTIFICIAL INTELLIGENCE, MACHINE LEARNING, DEEP LEARNING]
 ---
 # 🚀 Data Science Portfolio: From Raw Data to Actionable Insights
