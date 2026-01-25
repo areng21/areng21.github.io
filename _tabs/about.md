@@ -1,6 +1,8 @@
 ---
-title: About
-icon: fas fa-user
+layout:categories
+title: categories
+icon: fas fa-stream
+order: 1
 ---
 📊 Data & AI Specialist | 📈 M&E Professional | ⚛️ Quantum Computing Enthusiast
 
