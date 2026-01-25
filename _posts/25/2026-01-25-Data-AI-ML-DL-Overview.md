@@ -14,7 +14,7 @@ tags: [DATA SCIENCE, ARTIFICIAL INTELLIGENCE, MACHINE LEARNING, DEEP LEARNING]
 - Cleaned and validated 8,000+ Netflix titles dataset
 - Implemented comprehensive data quality checks
 - Built automated cleaning pipelines with 99.8% accuracy
-- [View Project](https://github.com/areng21/areng21.github.io)
+- [https://github.com/areng21/areng21.github.io]
 
 ### **🤖 Machine Learning Predictive Models**
 **Tools:** Scikit-learn, TensorFlow, Feature Engineering
