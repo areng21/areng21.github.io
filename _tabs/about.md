@@ -1,8 +1,9 @@
 ---
-layout:categories
-title: categories
+layout: categories
+title: Categories
 icon: fas fa-stream
 order: 1
+permalink: /categories/
 ---
 📊 Data & AI Specialist | 📈 M&E Professional | ⚛️ Quantum Computing Enthusiast
 
