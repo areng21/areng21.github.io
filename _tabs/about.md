@@ -1,9 +1,9 @@
 ---
-layout: categories
-title: Categories
-icon: fas fa-stream
-order: 1
-permalink: /categories/
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+layout: page
+title: About
 ---
 📊 Data & AI Specialist | 📈 M&E Professional | ⚛️ Quantum Computing Enthusiast
 
